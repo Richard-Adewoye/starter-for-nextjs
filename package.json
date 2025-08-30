@@ -12,14 +12,23 @@
     "@appwrite.io/pink-icons": "^1.0.0",
     "@tailwindcss/postcss": "^4.1.11",
     "appwrite": "^18.1.1",
+    "framer-motion": "^12.23.12",
+    "groq": "^4.5.0",
+    "groq-sdk": "^0.30.0",
+    "lucide-react": "^0.541.0",
     "next": "15.4.3",
-    "postcss": "^8.5.6",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "tailwindcss": "^4.1.11"
+    "react-icons": "^5.5.0"
   },
   "devDependencies": {
+    "@types/node": "24.3.0",
+    "@types/react": "19.1.11",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
     "prettier": "3.6.2",
-    "prettier-plugin-tailwindcss": "^0.6.14"
+    "prettier-plugin-tailwindcss": "^0.6.14",
+    "tailwindcss": "^4.1.12",
+    "typescript": "5.9.2"
   }
 }
