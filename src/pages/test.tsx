@@ -1,6 +1,6 @@
 // src/pages/test.tsx
 import { useEffect, useState } from "react";
-import { account, databases } from "@/lib/appwrite";
+import { account, databases } from "../lib/appwrite";
 
 export default function TestPage() {
   const [status, setStatus] = useState("Connecting...");
